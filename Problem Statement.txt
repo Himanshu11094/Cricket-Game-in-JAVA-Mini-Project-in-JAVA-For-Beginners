@@ -1,0 +1,21 @@
+ 
+
+Problem Statement:
+
+Implemented a Cricket number Game.
+It can be played by 2 players.
+Player 1 is going to start the game, have 3 wickets and 2 overs to play
+(overs and wickets can be changed as per the requirement)
+
+While playing the game we can check the score.
+Used the logic of random number generator to score runs and built the logic of cricket game around it.
+
+There are 2 innings played and whichever team score more runs WINS the match.
+
+Modifications can be done, can have wide ball, NO ball, or individual player score.
+
+In this code we have just implemented the basic functionality of a Cricket Game.
+
+
+         
+      
